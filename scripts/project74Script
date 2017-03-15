@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "#!/bin/bash" >> myscript
+echo "echo -e \"This is a sample shell script. \t It displays mounted filesystems \a\"" >> myscript
+echo "mount" >> myscript
