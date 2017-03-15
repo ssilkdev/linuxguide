@@ -1,0 +1,3 @@
+#! /bin/bash
+echo "Cleaning up Project 7-1"
+rm -fv sample? file* 
